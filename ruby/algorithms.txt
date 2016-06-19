@@ -1,0 +1,46 @@
+Release 0 - Elevator 
+-Walk into buildings entrance
+-Walk to wall to find directory 
+	-Find what floor you are currently on
+	-Look for intended floor
+-Walk to elevator door 
+	-Find elevator buttons on wall
+	-If intended floor is above your current floor...
+		-Press the arrow pointing up
+		-If no arrow up you are on the top floor
+	-If intended floor is below your current floor...
+		-Press the arrow pointing down
+		-If no arrow down you are on the bottom floor
+	-Otherwise you are on the correct floor
+-Wait for elevetor door to open 
+-Once doors open, enter the elevator 
+-Once inside elevator, check wall sides for floor buttons
+-Find intended floor button 
+-Press intended floor button 
+-Hang tight as the elevator moves towards your desired floor 
+-Wait for elevator to come to complete stop and for the doors to open 
+-Exit the elevator doors. 
+
+Release 1 - Watch a DVD
+-Argue with girlfriend on which movie you want to watch
+-Give in and agree to watch the movie your girlfriend wants to watch
+-walk into room with tv and dvd player
+-go to shelves with all dvds 
+	-if dvd location is known, go directly to that location and take dvd off the shelf
+	-if dvd location is unknown
+		-starting from top left and moving right, read each dvd title until your desired dvd is found
+		-take dvd off the shelf 
+-pull open dvd box
+-pull out the dvd from the box 
+-go to dvd player next to the tv 
+-look for and press the power button which can be found on the far left side 
+-look for and press the open button found to the right of the power button 
+-wait for dvd tray to pop open 
+-insert dvd into tray with graphic side up 
+-push dvd trey so it recoils back 
+-look through all the couch cusions for the universal remote 
+-turn tv power on 
+-press input
+-find the dvd player input and enter that input  
+-wait for dvd menu screen to load
+-press play
