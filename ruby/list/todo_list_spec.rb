@@ -1,3 +1,26 @@
+class TodoList
+  
+  def get_item
+
+  end 
+
+  def add_item
+ 
+  end
+
+  def delete_item
+  end
+
+  def retreive_item
+  end
+
+  def initilize
+    @list = []
+  end 
+end
+list = TodoList.new(["do the dishes", "mow the lawn"])
+p list 
+
 describe TodoList do
   let(:list) { TodoList.new(["do the dishes", "mow the lawn"]) }
 
