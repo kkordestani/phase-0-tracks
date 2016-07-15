@@ -97,4 +97,14 @@ end
 #=======================================================================
 # Reflection Section
 
+# 1. The differences between the two hashes is that the rocket hash can use symbols and strings as keys.
+#     The colon only apples to symbol keys 
 
+# 2. require_relative links contents of another file relative to the present file
+#    require uses an absolute path rather than a relative path
+
+# 3. You can iterate through a hash using the .each method 
+
+# 4. The variables when refactoring virus_effects are instance variable which are available to every method of the object.
+
+# 5. Concepts that I solidified in the challenge are instance variables and scope was a big concept here as well. 
