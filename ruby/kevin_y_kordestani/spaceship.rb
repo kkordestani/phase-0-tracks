@@ -51,7 +51,7 @@ class Spaceship
 
 	def print_inventory
 		@inventory.each do (item, location)
-			puts "Picked up #{item}, from #{location}"
+			puts "Picked up #{:item}, from #{:location}"
 		end
 	end
 end
@@ -72,3 +72,5 @@ spaceship_two.disable_shield
 spaceship_two.enable_shield
 spaceship_two.warp_to("Namibia")
 spaceship_two.about
+
+
